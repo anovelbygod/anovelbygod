@@ -19,7 +19,7 @@ alongside engineering teams.
 - 🌱 **ESG Tooling** — AI-powered supplier risk tools (passion project)
 
 ## Experience Highlights
-- **Piggytech Global** — Lead Product Strategy, digital banking & B2B 
+- **Piggytech Global** — Lead Product Strategy, digital banking, consumer apps & B2B 
   financial services
 - **Ulula / EcoVadis** — Product Manager, B2B SaaS compliance platform, 
   150+ enterprise clients across 30+ countries
