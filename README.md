@@ -6,7 +6,7 @@ Building fintech products that move money, serve the underbanked, and scale acro
 
 ## About Me
 
-Group Product Manager at **PiggyTech**, leading a team of 4 PMs across a portfolio of 6 products — PocketApp, PiggyVest, PiggyVest Business, Pocket Merchant Dashboard, Salary Manager, and PiggyVest Kids.
+Group Product Manager at **PiggyTech**, leading a team of 4 PMs across 6 products — PocketApp, PiggyVest, PiggyVest Business, Pocket Merchant Dashboard, Salary Manager, and PiggyVest Kids.
 
 7+ years across fintech and payments — payment infrastructure, digital banking, merchant tooling, cross-border payments, and B2B SaaS. I understand how money moves, where it gets stuck, and how to build products that fix that.
 
@@ -20,17 +20,18 @@ I'm now adding an engineering layer to my product practice: shipping prototypes,
 |---------|-----------|-------|
 | [**Arcspect**](https://arcspect.netlify.app) | AI-powered product documentation tool — generates PRDs, user stories, acceptance criteria, metrics, and risk registers from a one-line idea | Claude API · Netlify Functions · HTML/CSS/JS |
 | [**Pocket Merchant Dashboard**](https://pmd-admin-prototype.netlify.app) | B2B payment infrastructure prototype — wallet management, settlements, merchant onboarding | HTML/CSS/JS · Netlify |
-| **Weekly Digest Agent** | Python agent that ingests team reports, synthesises them with Claude, and outputs a structured weekly product digest | Python · Anthropic SDK |
+| [**Luster**](https://github.com/anovelbygod/luster) | AI job search agent — monitors PM roles across LinkedIn, Indeed, and Google Jobs daily, scores each against a custom profile, and delivers a curated digest by email | Python · JSearch API · Anthropic SDK |
+| **Clarity** *(private)* | Internal agent — ingests weekly reports from a 4-PM team, synthesises delivery status, blockers, and metrics with Claude, and outputs a structured digest | Python · Anthropic SDK · Gmail |
 
 ---
 
 ## What I'm Building Toward
 
-The **product builder PM** — someone who can ship prototypes without waiting on engineering, orchestrate AI agents across workflows, and raise pull requests, not just tickets.
+The **product builder PM** — someone who can ship prototypes without waiting on engineering, orchestrate AI agents across real workflows, and raise pull requests, not just tickets.
 
 **Agent roadmap:**
-- ✅ Weekly Product Digest Agent — reads team reports, generates digest via Claude
-- 🔄 Job Search Agent — monitors PM roles, scores against profile, drafts applications
+- ✅ Clarity — weekly product digest agent, live at PiggyTech
+- ✅ Luster — PM job search agent, running on GitHub Actions
 - 📋 Competitive Intelligence Tracker — monitors Nigerian fintech competitors weekly
 - 📋 Regulatory Intelligence Agent — monitors CBN, SEC Nigeria, FIRS for policy changes
 
@@ -65,4 +66,4 @@ The **product builder PM** — someone who can ship prototypes without waiting o
 
 ---
 
-*Footnote: Also exploring ESG tooling — AI-powered supplier risk assessment for emerging market supply chains. Passion project, early stage.*
+*Also exploring ESG tooling — AI-powered supplier risk assessment for emerging market supply chains. Passion project, early stage.*
